@@ -26,7 +26,7 @@ h3 {
 main {
   font-family: "Poppins", sans-serif;
   min-height: 100vh;
-  background: linear-gradient(to right top, #65dfc9, #6cdbeb);
+  background: linear-gradient(to right top, #DC143C, #B22222);
   display: flex;
   align-items: center;
   justify-content: center;
@@ -180,4 +180,8 @@ main {
   background: linear-gradient(to right top, #65dfc9, #6cdbeb);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
+}
+
+.DP{
+  height: 100px;
 }
